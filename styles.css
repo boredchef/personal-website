@@ -1,9 +1,14 @@
-img {
-    width: 200px;
-}
 body {
     text-align: center;
     font-family: cursive;
     background: darkorange;
     color: whitesmoke;
+}
+
+.magic {
+    color: white;
+}
+
+.magic:hover{
+    color: yellow;
 }
